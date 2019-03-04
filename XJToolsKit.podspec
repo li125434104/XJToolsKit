@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XJToolsKit'
-  s.version          = '1'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of XJToolsKit.'
 
 # This description is used to generate tags and improve search results.
