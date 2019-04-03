@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "MYKitDefinition.h"
 #import "NSArray+Wgarray.h"
 #import "NSString+HUString.h"
 #import "UIAlertController+HuAlert.h"
